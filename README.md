@@ -1,6 +1,6 @@
 # bottombar
 
-A new Flutter project.
+flutter bottom bar using the flutter icons
 
 ## Getting Started
 
